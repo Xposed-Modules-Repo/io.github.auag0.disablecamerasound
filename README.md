@@ -29,4 +29,4 @@ In some regions, camera shutter sounds are legally enforced and cannot be disabl
 Please use this module responsibly and comply with local laws and regulations regarding privacy and photography. The developer is not responsible for any misuse or legal issues arising from the use of this module.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/auag0/DisableCameraSound/blob/master/LICENSE) file for details.
